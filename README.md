@@ -26,20 +26,3 @@ and the [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/).
 To run bilstm_run.py or use the *infer_from_bilstm* function in inference.py, Word2Vec is necessary.
 Download the file "GoogleNews-vectors-negative300.bin.gz" [here](https://code.google.com/archive/p/word2vec/), 
 and place it in the same directory as the .py-files.
-
-
-
-
-
-
-
-
- 
-	
-
-
-
-
-
-
-aldj
